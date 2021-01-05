@@ -8,7 +8,7 @@
     "start": "npm run serve"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-loader": "^8.0.6",
     "current-script-polyfill": "^1.0.0",
     "element-ui": "^2.9.1",
